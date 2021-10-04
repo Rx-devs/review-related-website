@@ -4,7 +4,7 @@ import { Col, Container, FloatingLabel, Form, Row } from "react-bootstrap";
 const AboutUs = () => {
     return (
         <div>
-            <Container className="py-5">
+            <Container className="py-5" style={{height:'100vh'}}>
                 <Row>
                     <Col>
                         <div>

@@ -5,7 +5,7 @@ import { NavLink } from "react-router-dom";
 const Header = () => {
     return (
         <div>
-            <Navbar collapseOnSelect expand="lg" bg="dark" variant="dark" className="p-3 fs-5">
+            <Navbar collapseOnSelect expand="lg" bg="dark" variant="dark" className="p-3">
                 <Container>
                     <Navbar.Brand>LearningHub</Navbar.Brand>
                     <Navbar.Toggle aria-controls="responsive-navbar-nav" />
