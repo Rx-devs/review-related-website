@@ -1,0 +1,51 @@
+[
+    {
+      "key":"course-1",
+      "name": "Front-End Web Development",
+      "price": "BDT 5,000",
+      "img":"https://www.fifteendesign.co.uk/wp-content/uploads/2016/10/becoming-a-web-developer-in-2016.jpg"
+      
+    },
+    {
+      "key":"course-2",
+      "name": "Back-End Web Development with JavaScript",
+      "price": "BDT 5,500",
+      "img": "https://lh3.googleusercontent.com/proxy/VmtGdbbpMe-wlPwCSILzKiK6AKgRps3ZjDsoWJ5Ads1CHnugqN2pTZQhFbxGVwaHoKMbl8iLADjSCnp7VG_Y9EiSr0aT6ZvDwgl_iwXk7eFVFWgFrmORdPKV8hrzwzyKVn1VKlBVxPiNWQ"
+    },
+    {
+      "key":"course-3",
+      "name": "Back-End Web Development with Python and Django",
+      "price": "BDT 6,000",
+      "img": "https://files.realpython.com/media/Django-Project-Build-A-Diary-App_Watermarked.e2626223eb79.jpeg"
+    },
+    {
+      "key":"course-4",
+      "name": "Full Stack Web Development with MERN",
+      "price": "BDT 10,000",
+      "img": "https://miro.medium.com/max/2600/1*FVtCyRdJ6KOr4YswTtwMeA.jpeg"
+    },
+    {
+      "key":"course-5",
+      "name": "PHP for Web Development",
+      "price": "BDT 1,500",
+      "img": "https://lh3.googleusercontent.com/proxy/cI-EN71TUhSbBANgDjgQvHHDCVRZIIv6ZNoFupo9poMLyxeTgpbSXQyh3BE7APO72s47M1ci-I1a8oHGr7tH1DfKp7W3L3s10Hnt-WXhMm3v2OvfsifUiQPv3w"
+    },
+    {
+      "key":"course-6",
+      "name": "Android App Development with Java",
+      "price": "BDT 2,000",
+      "img": "https://w3programmers.com/bangla/wp-content/uploads/2018/11/Android-App-Development-with-JAVA-1024x576.jpg"
+    },
+    {
+      "key":"course-7",
+      "name": "React & Redux For Front End Web Development",
+      "price": "BDT 2,500",
+      "img": "https://programmerprodigycode.files.wordpress.com/2020/08/6598b-iu.jpg"
+    },
+    {
+      "key":"course-8",
+      "name": "Laravel for Back-end Web Development",
+      "price": "BDT 1,000",
+      "img": "https://5.imimg.com/data5/II/LM/HZ/SELLER-30415248/laravel-web-development-service-500x500.png"
+    }
+  ]

@@ -1,0 +1,34 @@
+[
+    {
+        "key":"blog_1",
+        "title":"Why You Should Read Every Day",
+        "description":"A person who reads everyday gets better at it over time. Not surprisingly, daily readers also gain more enjoyment from it than those that read less often. It can even improve memory and critical thinking skills. And activities like reading have been linked to a lower risk of Alzheimer's disease.",
+        "img":"https://www.oberlo.com/media/1612639204-image3.jpg?fit=max&fm=jpg&w=1824"
+    },
+    {
+        "key":"blog_2",
+        "title":"Relaxing after work",
+        "description":"Science confirms what we all knew, deep down: after a long, hard day at work, doing something fun and relaxing can help you sleep better at night. ... Essentially, detaching yourself from work can help you sleep better, which in turn helps you work better the next day, researchers write.",
+        "img":"https://www.revolutionmother.com/wp-content/uploads/2018/06/How-To-Relax-and-Wind-Down-After-Work.jpg"
+    },
+    {
+        "key":"blog_3",
+        "title":"How to Become a Web Developer",
+        "description":"To become a Web Developer, you should have an understanding of HTML, CSS, and JavaScript. It’s also recommended to learn about CSS and CSS frameworks. Developing these fundamental web development skills will give you the foundation and logic for communicating with programming languages.",
+        "img":"https://www.iss.nus.edu.sg/images/default-source/default-album/software-dev.jpg?Status=Master&sfvrsn=aa8aa05f_0"
+    },
+    {
+        "key":"blog_4",
+        "title":"Tips to learn programming fast",
+        "description":"Learn by doing. Always play with the code while learning,Grasp the fundamentals for long-term benefits,Code by hand. It's sharpens proficiency and you’ll need it to get a job,Never Get Tired of Practicing,Ask for help. You’ll need it,Seek out more online resources. There’s a wealth of content,Learn From the Bugs or error, Don’t just read the sample code. Thinker with it,Take breaks when debugging,Be curious. Because, if you are interested in the topic, you will search for additional resources, like articles or YouTube videos, to develop your knowledge.",
+        "img":"https://media.geeksforgeeks.org/wp-content/cdn-uploads/20190813181110/7-Tips-and-Tricks-to-Learn-Programming-Faster.png"
+    },
+    {
+        "key":"blog_5",
+        "title":"Tips for Successful Online Learning",
+        "description":"To ensure your newly learned knowledge and skills stick with you, it’s important to repeatedly practice skills, apply knowledge in different contexts, and reflect on what you have learned, especially as you practice and apply in new settings. For recorded video, pause and write a brief summary of what you have heard in notes every few minutes. Pay attention to what you are hearing and participate in the discussion to help keep your focus. ",
+        "img":"https://michiganvirtual.org/wp-content/uploads/2020/05/online-synchronous-class-1024x661.jpg"
+    }
+    
+
+]
