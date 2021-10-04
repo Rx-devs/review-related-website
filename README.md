@@ -1,10 +1,13 @@
-# Getting Started with Create React App
+# Learning Hub 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Live Website Link [Learning Hub](https://learning-hub-devs.netlify.app/).
 
-## Available Scripts
+## About this Website
+* Learn your favourite courses from here.
+* Learn Full stack web development.
+* Learn App development also.
 
-In the project directory, you can run:
+<!-- In the project directory, you can run:
 
 ### `yarn start`
 
@@ -68,3 +71,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+ -->
